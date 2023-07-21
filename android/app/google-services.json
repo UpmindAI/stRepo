@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "218153682741",
+    "project_id": "surestack3",
+    "storage_bucket": "surestack3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218153682741:android:74dd474b664ff9ea26ae7c",
+        "android_client_info": {
+          "package_name": "com.mycompany.surestack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218153682741-g77ljt6548n7g186igmfn6usen77f9tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.surestack",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "218153682741-brpbbcnkam1012esut2ls09ck8m2maf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OQ_f1j6kCnglM3sM3sE_pzgna1wj8LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218153682741-brpbbcnkam1012esut2ls09ck8m2maf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218153682741-t61np6407mpjlauei1s9p9qvk21pr3ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.surestack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
